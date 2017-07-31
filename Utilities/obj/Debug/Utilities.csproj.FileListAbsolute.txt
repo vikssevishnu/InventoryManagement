@@ -1,0 +1,4 @@
+D:\Personal\c#\5thGen\InventoryManagement\Utilities\bin\Debug\InventoryManagement.Utilities.dll
+D:\Personal\c#\5thGen\InventoryManagement\Utilities\bin\Debug\InventoryManagement.Utilities.pdb
+D:\Personal\c#\5thGen\InventoryManagement\Utilities\obj\Debug\InventoryManagement.Utilities.dll
+D:\Personal\c#\5thGen\InventoryManagement\Utilities\obj\Debug\InventoryManagement.Utilities.pdb
