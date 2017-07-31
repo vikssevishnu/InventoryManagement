@@ -1,0 +1,12 @@
+D:\Personal\c#\5thGen\InventoryManagement\InventoryClient\bin\Debug\InventoryClient.exe.config
+D:\Personal\c#\5thGen\InventoryManagement\InventoryClient\bin\Debug\InventoryClient.exe
+D:\Personal\c#\5thGen\InventoryManagement\InventoryClient\bin\Debug\InventoryClient.pdb
+D:\Personal\c#\5thGen\InventoryManagement\InventoryClient\bin\Debug\System.Net.Http.Formatting.dll
+D:\Personal\c#\5thGen\InventoryManagement\InventoryClient\bin\Debug\Newtonsoft.Json.dll
+D:\Personal\c#\5thGen\InventoryManagement\InventoryClient\bin\Debug\System.Net.Http.Formatting.xml
+D:\Personal\c#\5thGen\InventoryManagement\InventoryClient\bin\Debug\Newtonsoft.Json.xml
+D:\Personal\c#\5thGen\InventoryManagement\InventoryClient\obj\Debug\InventoryClient.csprojResolveAssemblyReference.cache
+D:\Personal\c#\5thGen\InventoryManagement\InventoryClient\obj\Debug\InventoryClient.exe
+D:\Personal\c#\5thGen\InventoryManagement\InventoryClient\obj\Debug\InventoryClient.pdb
+D:\Personal\c#\5thGen\InventoryManagement\InventoryClient\bin\Debug\InventoryManagement.Utilities.dll
+D:\Personal\c#\5thGen\InventoryManagement\InventoryClient\bin\Debug\InventoryManagement.Utilities.pdb
